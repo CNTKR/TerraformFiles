@@ -1,0 +1,145 @@
+Imp Links Courses
+https://partner.cloudskillsboost.google/paths/69/course_templates/625/labs/525538
+https://partner.cloudskillsboost.google/paths/69/course_templates/636/labs/526815
+
+git clone https://github.com/terraform-google-modules/terraform-google-network
+cd terraform-google-network
+git checkout tags/v6.0.1 -b v6.0.1
+
+ACE Learning Path
+https://partner.cloudskillsboost.google/paths/69
+https://services.google.com/fh/files/misc/associate_cloud_engineer_exam_guide_english.pdf
+
+
+
+Dumps,
+https://medium.com/@nikhil.nagarajappa/gcp-pca-preparation-gce-mcqs-ada6337198ac
+
+
+ACE Modules Topics,
+
+Associate Cloud Engineer Certification Learning Path
+     01 - A Tour of Google Cloud Hands-on Labs
+     02 - Preparing for your Associate Cloud EngineerJourney
+          Introduction
+          Setting Up a Cloud Solution Environment
+          Planning and Configuring a Cloud Solution
+          Deploying and Implementing a Cloud Solution
+          Ensuring Successful Operation of a Cloud Solution
+          Configuring Access and Security
+          Your next steps
+     03 - Google Cloud Fundamentals: Core Infrastructure
+          Course Introduction
+          Introducing Google Cloud
+          Resources and Access in the Cloud
+          Virtual Machines and Networks in the Cloud
+          Storage in the Cloud
+          Containers in the Cloud
+          Applications in the Cloud
+          Prompt Engineering
+          Course Summary
+     04 - Essential Google Cloud Infrastructure: Foundation
+          Introduction
+          Interacting with Google Cloud
+          Virtual Networks
+          Virtual Machines
+          Course Resources
+     05 - Essential Google Cloud Infrastructure: Core Services
+          Introduction
+          Identity and Access Management (IAM)
+          Storage and Database Services
+          Resource Management
+          Resource Monitoring
+          Course Resources
+     06 - Elastic Google Cloud Infrastructure: Scaling and Automation
+          Introduction
+          Interconnecting Networks
+          Load Balancing and Autoscaling
+          Infrastructure Automation
+          Managed Services
+          Course Resources
+     07 - Getting Started with Google Kubernetes Engine
+          Introduction
+          Introduction to Google Cloud
+          Introduction to Containers and Kubernetes
+          Kubernetes Architecture
+          Kubernetes Operations
+          Course Summary
+     08 - Logging and Monitoring in Google Cloud
+          Introduction
+          Introduction to Google Cloud Operations Suite
+          Monitoring Critical Systems
+          Alerting Policies
+          Advanced Logging and Analysis
+          Working with Audit Logs
+          Course Summary
+          Course Resources
+     09 - Observability in Google Cloud
+          Introduction
+          Configuring Google Cloud Services for Observability
+          Monitoring Google Cloud Network
+          Investigating Application Performance Issues
+          Optimizing the Costs for Google Cloud Observability
+          Course Summary
+          Course Resources
+     10 - Getting Started with Terraform for Google Cloud
+          Course Introduction
+          Introduction to Terraform for Google Cloud
+          Terms and Concepts
+          Writing Infrastructure Code for Google Cloud
+          Organizing and Reusing Configuration with Terraform Modules
+          Introduction to Terraform State
+          Course Summary
+     11 - Implement Load Balancing on Compute Engine
+          Creating a Virtual Machine
+          Compute Engine: Qwik Start - Windows
+          Getting Started with Cloud Shell and gcloud
+          Set Up Network and Application Load Balancers
+          Implement Load Balancing on Compute Engine: Challenge Lab
+     12 - Set Up an App Dev Environment on Google Cloud
+          Cloud Storage: Qwik Start - Cloud Console or Cloud Storage: Qwik Start - CLI/SDK
+          Cloud IAM: Qwik Start
+          Cloud Monitoring: Qwik Start
+          Cloud Functions: Qwik Start - Console or Cloud Functions: Qwik Start - Command Line
+          Pub/Sub: Qwik Start - Console or Pub/Sub: Qwik Start - Command Line or Pub/Sub: Qwik Start - Python
+          Set Up an App Dev Environment on Google Cloud: Challenge Lab
+     13 - Develop your Google Cloud Network
+          Cloud IAM: Qwik Start
+          Introduction to SQL for BigQuery and Cloud SQL
+          Multiple VPC Networks
+          Cloud Monitoring: Qwik Start
+          Managing Deployments Using Kubernetes Engine
+          Develop your Google Cloud Network: Challenge Lab
+     14 - Build Infrastructure with Terraform on Google Cloud
+          Terraform Fundamentals
+          Infrastructure as Code with Terraform
+          Interact with Terraform Modules
+          Managing Terraform State
+          Build Infrastructure with Terraform on Google Cloud: Challenge Lab
+
+Big Query for Data Warehousing
+Build a Data Warehouse with BigQuery
+Derive Insights from BigQuery Data
+
+Networking in Google Cloud: Fundamentals
+Network Performance and Optimization
+Set Up a Google Cloud Network
+
+Implement CI/CD Pipelines on Google Cloud
+Implement DevOps Workflows in Google Cloud
+Using DevSecOps in your Google Cloud Environment
+
+
+
+
+Linked in Learning
+
+Course Link
+https://www.linkedin.com/learning/communication-foundations-2018-2/foundations-of-communication?u=140539562
+https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=140539562
+https://www.linkedin.com/learning/writing-emails-for-non-native-english-speakers/writing-clear-and-concise-business-emails?u=140539562
+https://www.linkedin.com/learning/paths/essential-business-communication-skills-professional-certificate-by-linkedin-learning?u=140539562
+https://www.linkedin.com/learning/paths/improve-your-teamwork-skills?u=140539562
+https://www.linkedin.com/learning/problem-solving-techniques/make-better-decisions-using-problem-solving?u=140539562
+https://www.linkedin.com/learning/time-management-fundamentals-14548057/the-power-of-managing-your-time?u=140539562
+https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?autoSkip=true&resume=false&u=140539562
